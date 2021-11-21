@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listák</title>
+</head>
+<body>
+<h1 >Tátrai Levente</h1>
+<h2>Listák</h2>
+<P >Kedvenc tantárgyaim</P>
+<ol>
+<li>IKT Projektmunka</li>
+<li>Progarmozás</li>
+<li>Informatika és távközlés</li>
+
+<P>Kedvenc hobbijaim:</P>
+</ol>
+<ul>
+    <li>Fotózás</li>
+   <li>Gokartozás</li>
+   <li>Rollerezés</li>
+</ul>
+    
+</body>
+</html>
